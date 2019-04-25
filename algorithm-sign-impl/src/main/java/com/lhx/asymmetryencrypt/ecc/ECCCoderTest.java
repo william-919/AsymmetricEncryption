@@ -8,7 +8,6 @@ import java.util.Map;
  */
 public class ECCCoderTest {
 	public static void main(String[] args) throws Exception {
-		System.out.println("Hello World!");
 		String inputStr = "abc";
 		byte[] data = inputStr.getBytes();
 
